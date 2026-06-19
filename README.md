@@ -41,6 +41,15 @@ This project implements a serverless visitor counter using AWS services. The fro
 ## S3 Static Website Hosting
 <img width="1917" height="1017" alt="s3-hosting" src="https://github.com/user-attachments/assets/650923fb-e4eb-42f4-8b40-6bb750f94845" />
 
+## Skills Demonstrated
+- AWS Lambda
+- Amazon API Gateway
+- Amazon DynamoDB
+- Amazon S3
+- AWS IAM
+- Serverless Architecture
+- Cloud Deployment
+
 
 ## Future Improvements
 - CloudFront
