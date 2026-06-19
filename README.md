@@ -1,5 +1,3 @@
-# aws-serverless-visitor-counter
-
 # AWS Serverless Visitor Counter
 
 ## Overview
