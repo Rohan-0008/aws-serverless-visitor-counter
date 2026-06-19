@@ -1,3 +1,6 @@
+# Project Screenshots
+
+## Website Output
 <img width="1910" height="1011" alt="website" src="https://github.com/user-attachments/assets/0d34e92c-9b87-4c63-8344-f35a6bd443a6" />
 <img width="1895" height="906" alt="lambda-function" src="https://github.com/user-attachments/assets/fa7b6951-ab58-440a-b500-8469523fbe25" />
 <img width="1906" height="1011" alt="dynamoDB-table" src="https://github.com/user-attachments/assets/dd27893d-9ede-4d63-9f3e-0c4f1f59be8c" />
