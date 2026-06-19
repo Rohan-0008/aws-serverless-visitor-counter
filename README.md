@@ -6,7 +6,8 @@
 A serverless visitor counter built using AWS services.
 
 ## Architecture
-[Insert architecture-diagram.png]
+<img width="1632" height="4576" alt="VisitorCounterArchitecture" src="https://github.com/user-attachments/assets/17cde38d-077f-40a9-8a99-568c92b96c22" />
+
 
 ## Services Used
 - Amazon S3
