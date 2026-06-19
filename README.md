@@ -23,11 +23,20 @@ A serverless visitor counter built using AWS services.
 
 
 ## Screenshots
-<img width="1910" height="1011" alt="website" src="https://github.com/user-attachments/assets/480d35df-7702-4736-af50-0eefc88afe20" />
-<img width="1895" height="906" alt="lambda-function" src="https://github.com/user-attachments/assets/f54d803f-5c2f-4a1a-8457-5511ffd29b15" />
-<img width="1917" height="1017" alt="api-gateway" src="https://github.com/user-attachments/assets/5e0118ea-5563-4e38-882f-e3beae889023" />
-<img width="1906" height="1011" alt="DynamoDB-table" src="https://github.com/user-attachments/assets/7e11f717-f090-444d-852f-272273e74b20" />
-<img width="1917" height="1017" alt="s3-hosting" src="https://github.com/user-attachments/assets/82140bbd-a341-4be4-b111-841cdb08b9bc" />
+## Website Output
+<img width="1910" height="1011" alt="website" src="https://github.com/user-attachments/assets/0d34e92c-9b87-4c63-8344-f35a6bd443a6" />
+
+## AWS Lambda Function
+<img width="1895" height="906" alt="lambda-function" src="https://github.com/user-attachments/assets/fa7b6951-ab58-440a-b500-8469523fbe25" />
+
+## DynamoDB Table
+<img width="1906" height="1011" alt="dynamoDB-table" src="https://github.com/user-attachments/assets/dd27893d-9ede-4d63-9f3e-0c4f1f59be8c" />
+
+## API Gateway Configuration
+<img width="1917" height="1017" alt="api-gateway" src="https://github.com/user-attachments/assets/b789b632-6f85-441c-8794-c6e3d0c219c0" />
+
+## S3 Static Website Hosting
+<img width="1917" height="1017" alt="s3-hosting" src="https://github.com/user-attachments/assets/650923fb-e4eb-42f4-8b40-6bb750f94845" />
 
 
 ## Future Improvements
