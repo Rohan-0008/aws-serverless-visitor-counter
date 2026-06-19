@@ -1,8 +1,5 @@
 # AWS Serverless Visitor Counter
 
-## Overview
-A serverless visitor counter built using AWS services.
-
 ## Project Description
 This project implements a serverless visitor counter using AWS services. The frontend is hosted on Amazon S3, while API Gateway and AWS Lambda handle visitor count requests. Visitor data is stored and updated in Amazon DynamoDB, enabling real-time tracking without managing servers.
 
@@ -16,6 +13,13 @@ This project implements a serverless visitor counter using AWS services. The fro
 - AWS Lambda
 - Amazon DynamoDB
 - AWS IAM
+
+## Features
+- Static website hosting using Amazon S3
+- Serverless backend with AWS Lambda
+- REST API using API Gateway
+- Visitor count storage in DynamoDB
+- Real-time visitor tracking
 
 ## Workflow
 1. User opens website hosted on S3.
@@ -41,12 +45,6 @@ This project implements a serverless visitor counter using AWS services. The fro
 ## S3 Static Website Hosting
 <img width="1917" height="1017" alt="s3-hosting" src="https://github.com/user-attachments/assets/650923fb-e4eb-42f4-8b40-6bb750f94845" />
 
-## Features
-- Static website hosting using Amazon S3
-- Serverless backend with AWS Lambda
-- REST API using API Gateway
-- Visitor count storage in DynamoDB
-- Real-time visitor tracking
 
 ## Skills Demonstrated
 - AWS Lambda
@@ -56,6 +54,7 @@ This project implements a serverless visitor counter using AWS services. The fro
 - AWS IAM
 - Serverless Architecture
 - Cloud Deployment
+- Event-Driven Computing
 
 
 ## Future Improvements
